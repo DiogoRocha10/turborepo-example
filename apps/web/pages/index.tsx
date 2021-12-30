@@ -1,11 +1,11 @@
-import { Button, Input } from "ui";
+import { About, Intro, ProductList } from "ui";
 
 export default function Web() {
   return (
     <div>
-      <h1>Web</h1>
-      <Button />
-      <Input />
+      <Intro />
+      <About />
+      <ProductList />
     </div>
   );
 }

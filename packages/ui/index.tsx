@@ -1,3 +1,3 @@
-import * as React from "react";
-export * from "./Button/Button";
-export * from "./Input/Input";
+export * from "./Intro";
+export * from "./About";
+export * from "./ProductList";
